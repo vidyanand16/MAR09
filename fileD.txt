@@ -1,0 +1,3 @@
+Welcome to accenture
+Welcome to GIT SCM Training 
+A full day session.
